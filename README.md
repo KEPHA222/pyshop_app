@@ -1,4 +1,4 @@
-## Pollster app <br>
+## Pyshop app <br>
 This is a Pyshop application using Django and db.sqlite3. <br>
 
 ## Usage <br>
